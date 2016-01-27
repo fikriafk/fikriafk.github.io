@@ -2,4 +2,4 @@
 
 Personal website hosted by GitHub
 
-It can be accessed through LenPaul.gihub.io
+It can be accessed through LeNPaul.gihub.io
