@@ -1,12 +1,11 @@
-<!--body{
+body{
 text-align: center;
-background-image: url("Background.jpg");
+<!--background-image: url("Background.jpg");-->
 background-repeat: no-repeat;
 background-position: right top;
  height: 500px;
 }
--->
-
 img{
 display: center;
+display: no-repeat;
 }
