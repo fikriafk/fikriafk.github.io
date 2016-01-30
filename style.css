@@ -2,10 +2,14 @@ body{
 text-align: center;
 <!--background-image: url("Background.jpg");-->
 background-repeat: no-repeat;
-background-position: right top;
+background-position: center;
  height: 500px;
 }
 img{
 display: center;
+<<<<<<< HEAD
 display: no-repeat;
 }
+=======
+}
+>>>>>>> 1fb8e12d822cc2d4a24905ad5da336144f4c8262
