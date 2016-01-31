@@ -32,6 +32,12 @@ p{
 	line-height: 20px;
 	text-align: justify;
 }
+.columns{
+	word-wrap: break-word;
+	width: 990px;
+	margin-right:auto;
+	margin-left:auto;
+}
 .column-left{
 	float: left; 
 	width: 33%; 
@@ -43,9 +49,4 @@ p{
 .column-center{
 	display: inline-block;
 	width: 33%;
-}
-.columns{
-	width: 990px;
-	margin-right:auto;
-	margin-left:auto;
 }
