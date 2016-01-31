@@ -23,7 +23,7 @@ h1{
 	font-weight: 500;
 	line-height: 26.4px;
 }
-.container{	
+p{	
 	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 14px;
 	font-style: normal;
@@ -33,6 +33,7 @@ h1{
 	text-align: justify;
 }
 .columns{
+	text-align: justify;
 	width: 990px;
 	margin-right:auto;
 	margin-left:auto;
