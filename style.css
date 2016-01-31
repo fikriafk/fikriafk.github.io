@@ -7,9 +7,9 @@ background-position: center;
 }
 img{
 display: center;
-<<<<<<< HEAD
 display: no-repeat;
 }
 .blurb{
-border: 10px solid green ;
+word-wrap: break-word;
+width: 990px;
 }
