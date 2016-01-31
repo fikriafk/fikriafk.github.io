@@ -1,19 +1,19 @@
 body{
 text-align: center;
 <!--background-image: url("Background.jpg");-->
-background-repeat: no-repeat;
-background-position: center;
+ background-repeat: no-repeat;
+ background-position: center;
  height: 500px;
 }
 img{
-display: center;
-display: no-repeat;
+ display: center;
+ display: no-repeat;
 }
 .blurb{
-word-wrap: break-word;
-width: 990px;
-margin-right:auto;
-margin-left:auto
+ word-wrap: break-word;
+ width: 990px;
+ margin-right:auto;
+ margin-left:auto
 }
 h1{
  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
@@ -32,6 +32,15 @@ p{
 	line-height: 20px;
 text-align: justify;
 }
-.column-left{ float: left; width: 33%; }
-.column-right{ float: right; width: 33%; }
-.column-center{ display: inline-block; width: 33%; }
+.column-left{
+ float: left; 
+ width: 330; 
+}
+.column-right{
+ float: right;
+ width: 330; 
+}
+.column-center{
+ display: inline-block;
+ width: 330;
+ }
