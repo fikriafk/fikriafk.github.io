@@ -13,7 +13,7 @@ img{
 	word-wrap: break-word;
 	width: 990px;
 	margin-right:auto;
-	margin-left:auto
+	margin-left:auto;
 }
 h1{
 	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
@@ -46,5 +46,6 @@ p{
 }
 .columns{
 	width: 990px;
-	display: center;
+	margin-right:auto;
+	margin-left:auto;
 }
