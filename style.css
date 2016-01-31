@@ -34,13 +34,13 @@ text-align: justify;
 }
 .column-left{
  float: left; 
- width: 330; 
+ width: 330px; 
 }
 .column-right{
  float: right;
- width: 330; 
+ width: 330px; 
 }
 .column-center{
  display: inline-block;
- width: 330;
+ width: 330px;
  }
