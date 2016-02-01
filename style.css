@@ -86,9 +86,11 @@ a:link{
 	text-decoration: none;
 	color: white;
 	font-weight: bold;
+	width: 100px;
 }
 a:visited{
 	text-decoration: none;
 	color: white;
 	font-weight: bold;
+	width: 100px;
 }
