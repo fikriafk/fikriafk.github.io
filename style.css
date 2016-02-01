@@ -1,8 +1,5 @@
 body{
 	text-align: center;
-	<!--background-image: url("Background.jpg");-->
-	background-repeat: no-repeat;
-	background-position: center;
 	height: 500px;
 }
 img{
@@ -62,7 +59,7 @@ p{
 footer{
 	width: 990px;
 	display: inline-block;
-	<!--background-image: url("https://cloud.githubusercontent.com/assets/8409329/12706473/17a580d2-c854-11e5-8c3a-6f3d065d4c7b.jpg");-->
+	background-image: url("https://cloud.githubusercontent.com/assets/8409329/12706473/17a580d2-c854-11e5-8c3a-6f3d065d4c7b.jpg");
 }
 li{
 	list-style-type: none;
