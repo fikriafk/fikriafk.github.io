@@ -6,7 +6,7 @@
 }
 .headtitle{
 	position: relative;
-	top: 150px;
+	top: 140px;
 	color: white;
 	font-size: 25px;
 	font-weight: bold;
@@ -72,6 +72,8 @@ p{
 	text-align: justify;
 }
 footer{
+	position: relative;
+	top: 30px;
 	color: white;
 	width: 990px;
 	display: inline-block;
@@ -81,16 +83,16 @@ li{
 	list-style-type: none;
 	display: inline-block;
 	width: 100px;
-}
+	}
 a:link{
 	text-decoration: none;
 	color: white;
+	font-size: 12px;
 	font-weight: bold;
-	width: 100px;
 }
 a:visited{
 	text-decoration: none;
 	color: white;
+	font-size: 12px;
 	font-weight: bold;
-	width: 100px;
 }
