@@ -62,6 +62,8 @@ p{
 footer{
 	width: 990px;
 	display: inline-block;
-	list-style-type: none;
 	<!--background-image: url("https://cloud.githubusercontent.com/assets/8409329/12706473/17a580d2-c854-11e5-8c3a-6f3d065d4c7b.jpg");-->
+}
+li{
+	list-style-type: none;
 }
