@@ -1,14 +1,14 @@
 # Site
 title:              Hi there! I`m Paul
-bio:                'I like to learn.'
-description:        "My personal website."
+bio:                'I like to learn. This is my personal website.'
+description:        "I like to learn. My personal website."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://taylantatli.me/Moon
+url:                http://google.ca
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   LePaul
 
 # Social
 # if you don't have any of social below, comment the line.
