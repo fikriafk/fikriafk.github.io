@@ -1,7 +1,7 @@
 # Site
-title:              Hi there! I`m Paul
+title:              Hi there! I'm Paul
 bio:                'I like to learn. This is my personal website.'
-description:        "I like to learn. My personal website."
+description:        "I like to learn. This is my personal website. Feel free to look around to see what I have been up to."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -37,7 +37,7 @@ disqus_shortname:   LePaul
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              l.nguyen.paul@gmail.com
 twitter:            Paululele
 #facebook:           username
 github:             LeNPaul
