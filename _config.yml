@@ -28,16 +28,16 @@ baseurl: "/dotX"
 
 # Author settings
 author:
-  name      : Fernando Moreira
-  job       : Frontend Engineer
-  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name      : Paul Le
+  job       : Recent graduate
+  bio       : "I like to learn and create."
   thumb     : /images/author.jpg
-  email     : nandomoreira.me@gmail.com
-  url       : http://nandomoreira.me
-  github    : http://github.com/nandomoreirame
-  twitter   : http://twitter.com/nandomoreirame
-  facebook  : http://facebook.com/fernando.dev
-  linkedin  : http://linkedin.com/in/nandomoreirame
+  email     : l.nguyen.paul@gmail.com
+  url       : http://LeNPaul.github.io
+  github    : http://github.com/LeNPaul
+  twitter   : http://twitter.com/Paululele
+  #facebook  : http://facebook.com/fernando.dev
+  linkedin  : http://linkedin.com/in/LeNPaul
 
 # google_analytics: UA-52446115-1
 repo: http://github.com/nandomoreirame/dotX
