@@ -1,4 +1,4 @@
-_site
-.sass-cache
-
-.DS_Store
+_config.yml
+_site/*
+*Thumbs.db
+Gemfile.lock
