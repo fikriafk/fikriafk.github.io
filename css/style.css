@@ -3,7 +3,6 @@ body {
   #background: #456990;
   #color: #fff;
   overflow-x: hidden;
-  padding-bottom: 50px;
 }  /* INTRO SECTION
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -34,10 +33,6 @@ h3 {
 
 h4 {
   color: grey;
-}
-
-#story {
-  padding-top: 50px;
 }
 
 .social-icons > a {
