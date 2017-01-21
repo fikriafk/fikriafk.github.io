@@ -138,6 +138,10 @@ header p {
   padding-top: 50px;
 }
 
+#story {
+  padding-top: 50px;
+}
+
 .social-icons > a {
 	color: inherit; 
 	text-decoration: none;
