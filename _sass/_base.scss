@@ -52,15 +52,17 @@ header
 		text-align: center
 		//text-transform: uppercase
 		font-size: 65px
-		font-weight: 400
+		font-weight: 700
+		//font-weight: 400
 		letter-spacing: 3px
 		line-height: .8
 		padding-top: 50px
-		font-family: 'Montserrat', sans-serif
+		font-family: 'Raleway', sans-serif
+		//font-family: 'Montserrat', sans-serif
 
 		span
 			//text-transform: uppercase
-			letter-spacing: 7px
+			//letter-spacing: 7px
 			font-size: 25px
 			line-height: 1
 
@@ -73,11 +75,11 @@ header
 	padding: 40px 0 300px
 	position: relative
 	overflow: hidden
-	
+
 	ul
 		padding-top: 50px
 		position: relative
-		
+
 		li
 			@extend %col
 			margin-bottom: 20px
@@ -119,11 +121,11 @@ header
 					content: ''
 					opacity: 0
 					@include transition(all, 0.3s, linear)
-					
+
 
 				&:hover:after
 					opacity: 1
-					
+
 
 
 
@@ -194,4 +196,10 @@ header
 		top: 0px
 		+transition(all, 0.3s, ease-in-out)
 
+.social-icons
+	a
+		color: black
+		font-size: 1rem
 
+.fa
+	padding: 5px
