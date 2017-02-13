@@ -42,10 +42,21 @@ ul, ol, dl, figure,
 /**
  * Images
  */
+
+img:hover{
+  opacity: 0.5;
+}
+
 img {
     max-width: 100%;
     vertical-align: middle;
-}
+    margin-bottom: $spacing-unit;
+    -o-transition:.5s;
+    	-ms-transition:.5s;
+    	-moz-transition:.5s;
+    	-webkit-transition:.5s;
+    	transition: .5s;
+  }
 
 
 

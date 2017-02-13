@@ -5,6 +5,9 @@ baseurl:           #"/physics-in-motion"
 url:               #"https://lenpaul.github.io"
 twitter:           "paululele"
 github:            "lenpaul"
+codepen:           "lenpaul"
+linkedin:          "lenpaul"
+instagram:         "paululele"
 
 # Build settings
 markdown: kramdown
