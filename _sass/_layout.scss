@@ -10,6 +10,10 @@
     position: relative;
 }
 
+.site-header a {
+	text-decoration: none;
+}
+
 .site-title {
     font-size: 26px;
     font-weight: 300;
@@ -169,6 +173,15 @@
 }
 
 
+/*
+  Splash page
+*/
+
+.splash-page {
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 50vh;
+}
 
 /**
  * Page content
@@ -251,6 +264,10 @@
 /*
   Social media icons
 */
+
+.social-icons > a {
+	color: black;
+}
 
 .fa-envelope {
   padding: 5px;

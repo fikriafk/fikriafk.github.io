@@ -103,9 +103,14 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
     color: black;//$brand-color;
-    text-decoration: none;
+    text-decoration: underline;
     font-weight: bold;
-
+        -o-transition:.5s;
+        -ms-transition:.5s;
+        -moz-transition:.5s;
+        -webkit-transition:.5s;
+        transition: .5s;
+    
     /*&:visited {
         color: darken($brand-color, 15%);
     }*/
