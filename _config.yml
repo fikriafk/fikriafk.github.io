@@ -1,13 +1,13 @@
-title:             Paul Le
-email:             l.nguyen.paul@gmail.com
-description:
-baseurl:           #"/physics-in-motion"
-url:               #"https://lenpaul.github.io"
-twitter:           "paululele"
-github:            "lenpaul"
-codepen:           "lenpaul"
-linkedin:          "lenpaul"
-instagram:         "paululele"
-
 # Build settings
+
 markdown: kramdown
+permalink: none
+
+port: 4000
+
+include: ['_includes/work']
+exclude: ['the_design.psd']
+
+sass:
+  sass_dir: assets/css
+  style: :nested
