@@ -56,7 +56,6 @@ projects:
 - {name: 'Lagrange Jekyll Theme', folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: 'Millennial Jekyll Theme', folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: 'Personal Portfolio Website', folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: 'Currently Working On', folder: 'proj-5', file: 'work/proj-5.html'}
 
 #-------------------------------
 # Contact Section
