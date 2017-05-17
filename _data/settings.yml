@@ -52,13 +52,15 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Free Code Camp Projects', folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: 'Lagrange Jekyll Theme', folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: 'Millennial Jekyll Theme', folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: 'Personal Portfolio Website', folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: 'Free Code Camp Projects', folder: 'proj-1', file: 'projects/freecodecamp.html'}
+- {name: 'Lagrange Jekyll Theme', folder: 'proj-2', file: 'projects/lagrange.html'}
+- {name: 'Millennial Jekyll Theme', folder: 'proj-3', file: 'projects/millennial.html'}
+- {name: 'Personal Portfolio Website', folder: 'proj-4', file: 'projects/personal-portfolio.html'}
 
 #-------------------------------
 # Contact Section
+
+footer: Follow me below
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/paululele'}
