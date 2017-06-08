@@ -6,7 +6,7 @@ title: 'Free Code Camp Projects'
 
 <h4>Weather App</h4>
 
-<p>The weather app uses <a href="http://ip-api.com/" target="_blank">an API</a> to roughly estimate your location based on your IP address, and <a href="https://openweathermap.org/api" target="_blank">another API</a> to fetch data on the local weather.</p>
+<p>The weather app uses <a href="http://ip-api.com/" target="_blank">an API</a> to roughly estimate your location based on your IP address, and <a href="https://openweathermap.org/api" target="_blank">another API</a> to fetch data on the local weather. <strong>OpenWeatherMap recently changed their API such that the app no longer works, should be an easy fix that I will fix soon.</strong></p>
 
 {% include image.html url="http://codepen.io/LeNPaul/full/rLkEBW" image="/projects/proj-1/weather-app.jpg" %}
 
