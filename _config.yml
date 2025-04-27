@@ -1,19 +1,36 @@
-title: Fikri's Website
-description: My personal website
+title: Fikri Hakim
+description: Personal Website of Fikri Hakim
 url: "https://fikriafik.github.io"
 baseurl: ""
 
-
-# Build settings
-
 markdown: kramdown
-permalink: none
+permalink: pretty
 
-port: 4000
+author:
+  name: Fikri Hakim
+  email: fikrihak82@gmail.com
+  bio: |
+    Hi, I'm Fikri! I'm passionate about technical writer, technology, and learning new things every day.
 
-include: ['_includes/work']
-exclude: ['the_design.psd']
+nav:
+  - name: Projects
+    link: /projects/
+  - name: Blog
+    link: /blog/
+  - name: About
+    link: /about/
+  - name: Contact
+    link: /contact/
+
+social:
+  github: https://github.com/fikriafik
+  linkedin: https://www.linkedin.com/in/your-linkedin
+  twitter: https://x.com/FikriAbdul32437?t=5dloCij3J58XUT0qUzBrvA&s=08
 
 sass:
   sass_dir: assets/css
-  style: :nested
+  style: nested
+
+port: 4000
+include: ['_includes/work']
+exclude: ['the_design.psd']
